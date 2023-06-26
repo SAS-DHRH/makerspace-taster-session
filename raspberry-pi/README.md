@@ -7,7 +7,7 @@ In this session, we will introduce you to a lightweight and flexible computing s
  
 During the session, we will provide an overview of the Raspberry Pi approach to computing and give you the chance to try setting up one up yourself. No experience required.
 
-[Slides in used in this session](https://github.com/SAS-DHRH/makerspace-taster-sessions/blob/main/raspberry-pi/MakerSpace%20Taster%20Session%20-%20Raspberry%20Pi.pdf)
+[Slides used in this session](https://github.com/SAS-DHRH/makerspace-taster-sessions/blob/main/raspberry-pi/MakerSpace%20Taster%20Session%20-%20Raspberry%20Pi.pdf)
 
 <br />
 
